@@ -13,28 +13,28 @@
 			<img src="/.github/icons/React.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/nodejs.svg" width="60"/>
+			<img src="/.github/icons/Nodejs.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/expressjs.png" width="60"/>
+			<img src="/.github/icons/JS.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/materialui.svg" width="60"/>
+			<img src="/.github/icons/Redux.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
+			<img src="/.github/icons/MongoDB.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/mongodb.svg" width="60"/>
+			<img src="/.github/icons/mssql.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
 		<td>React</td>
 		<td>Node.js</td>
-		<td>Express.js</td>
-		<td>Material-UI</td>
+		<td>JavaScript</td>
 		<td>Redux</td>
 		<td>MongoDB</td>
+		<td>MSSQL Server</td>
 	</tr>
 </table>
 
