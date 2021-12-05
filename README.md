@@ -10,7 +10,7 @@
 <table >
 	<tr align="center">
 		<td >
-			<img src="<i class="fab fa-react"></i>" width="60"/>
+			<img src="/.github/icons/React.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/nodejs.svg" width="60"/>
