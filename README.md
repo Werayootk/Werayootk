@@ -10,7 +10,7 @@
 <table >
 	<tr align="center">
 		<td >
-			<img src="/.github/icons/react.png" width="60"/>
+			<img src="<i class="fab fa-react"></i>" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/nodejs.svg" width="60"/>
@@ -48,7 +48,7 @@
 
 
 <!--
-**beerth21624/beerth21624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Werayootk/Werayootk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
