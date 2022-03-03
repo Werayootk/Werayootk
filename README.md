@@ -1,7 +1,7 @@
 
 ### Hi there ,I am Werayoot Kunphai 👋
 - 👨 My nickname is Toon
-- ⏱ I am 30 years old
+- ⏱ I am 31 years old
 - 🏠 I am from Thailand
 ---
 
