@@ -40,10 +40,8 @@
 
 ![Werayoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=werayootk&theme=blue-green&show_icons=true)
 
-
 ## See my projects - [werayootk.github.io](https://werayootk.github.io/demo-portfolio/)
-
-
+## See my article - [medium blog](https://medium.com/@werayoot-kunphai)
 
 <!--
 **Werayootk/Werayootk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
