@@ -25,6 +25,21 @@
 		<td >
 			<img src="/.github/icons/mssql.svg" width="60"/>
 		</td>
+		<td >
+			<img src="/.github/icons/icons8-c-sharp-logo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/icons8-golang.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/icons8-google-firebase-console.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/icons8-mysql-logo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/icons8-python.svg" width="60"/>
+		</td>
 	</tr>
 	<tr align="center">
 		<td>React</td>
@@ -33,6 +48,11 @@
 		<td>Redux</td>
 		<td>MongoDB</td>
 		<td>MSSQL Server</td>
+		<td>C#</td>
+		<td>Golang</td>
+		<td>Firebase</td>
+		<td>Mysql</td>
+		<td>Python</td>
 	</tr>
 </table>
 
