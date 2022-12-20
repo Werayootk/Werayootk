@@ -60,7 +60,7 @@
 
 ![Werayoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=werayootk&theme=blue-green&show_icons=true)
 
-## See my projects - [werayootk.github.io](https://werayootk.github.io/demo-portfolio/)
+## See my projects - [werayootk.github.io](https://werayootk.github.io/info/)
 ## See my article - [medium blog](https://medium.com/@werayoot-kunphai)
 
 <!--
