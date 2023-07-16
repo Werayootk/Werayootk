@@ -83,7 +83,7 @@ Testing Tools:
 Others:
 <!--vscode, Linux, Git, jupyter, Airflow, Tensflow, pytorch, Yolo -->
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicon/icons/linux/linux-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
