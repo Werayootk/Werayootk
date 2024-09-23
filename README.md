@@ -3,6 +3,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/werayoot-kunphai/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@werayoot-kunphai)
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/werayootk)
 <br />
 
 ### Hi there 👋 I'm Werayoot Kunphai From Thailand ![](https://github.com/yammadev/flag-icons/blob/master/png/TH.png)
@@ -121,6 +122,7 @@ I also published & shared my knowledge on another platform as well
 
 <br />
 
+<!--
 ## Additional
 
 If my skeleton/demo project can help you and you want to support me, you can buy me some coffee!
@@ -129,7 +131,7 @@ If my skeleton/demo project can help you and you want to support me, you can buy
 
 Also, you can reach me at werayoot5800gmail.com for other details.
 
-<!--
+
 **Werayootk/Werayootk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
