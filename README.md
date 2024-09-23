@@ -15,7 +15,7 @@
 * 💬 Ask me about my work
 * 🥅 2024 Goals: Create Cool things
 * ⚡ Fun fact: Caffeine makes me feel good
-* 📫 How to reach me: @werayoot_ku om Twitter
+* 📫 How to reach me: @werayoot_ku on Twitter
 ---
 
 ## Technologies I have used
@@ -87,6 +87,10 @@ Testing Tools:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"  /></code>
 <code><img height="25" src=".github/icons/k6.svg" /></code>
+
+AI/ML/DL/GenAI:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
 
 Others:
 
