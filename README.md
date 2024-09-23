@@ -5,9 +5,17 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@werayoot-kunphai)
 <br />
 
-- 👨🏽‍💻 I’m currently working as a Full Stack Developer
-- 💬 I want to be a great developer
-- 📫 How to reach me: werayoot5800@gmail.com
+### Hi there 👋 I'm Werayoot Kunphai From Thailand ![](https://github.com/yammadev/flag-icons/blob/master/png/TH.png)
+
+#### 👨🏽‍💻 Full Stack Developer | Aspiring to Greatness
+
+* 🔭 I'm currently working on BEM2C.JS https://github.com/Werayootk/BEM2C.js
+* 🌱 I'm currently learning AI/ML/DL/GenAI
+* 👯 I'm looking to collaborate on open-source, developer tools, AI Projects
+* 💬 Ask me about my work
+* 🥅 2024 Goals: Create Cool things
+* ⚡ Fun fact: Caffeine makes me feel good
+* 📫 How to reach me: @werayoot_ku om Twitter
 ---
 
 ## Technologies I have used
@@ -27,9 +35,9 @@ Backend:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/></code>-->
+<code><img height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/></code>
 
 Frontend:
 
@@ -46,39 +54,39 @@ Cross-Platform Mobile:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/></code>
 
 Database:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>-->
-<!-- <code><img height="25" src=".github/icons/elasticsearch.svg"/></code>-->
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
 
 Real-World Software Engineering Tools:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/></code>
-<!-- <code><img height="25" src=".github/icons/rabbitmq.svg"/></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/></code>-->
-<!-- <code><img height="25" src=".github/icons/elk.svg" /></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/></code>-->
+<code><img height="25" src=".github/icons/rabbitmq.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/></code>
+<code><img height="25" src=".github/icons/elk.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/></code>
 
 Cloud & Deployment:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  /> </code>-->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  /></code> -->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  /></code> -->
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  /> </code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  /></code>
 
 Testing Tools:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"  /></code> -->
-<!-- <code><img height="25" src=".github/icons/k6.svg" /></code> -->
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"  /></code>
+<code><img height="25" src=".github/icons/k6.svg" /></code>
 
 Others:
 
@@ -101,7 +109,7 @@ Others:
 
 ## Publications
 
-I also published & shared my knowledge to another platform as well
+I also published & shared my knowledge on another platform as well
 
 - [Medium](https://medium.com/@werayoot-kunphai)
 
@@ -115,7 +123,7 @@ If my skeleton/demo project can help you and you want to support me, you can buy
 
 <a href="https://www.buymeacoffee.com/werayootk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-Also you can reach me at werayoot5800gmail.com for another detail.
+Also, you can reach me at werayoot5800gmail.com for other details.
 
 <!--
 **Werayootk/Werayootk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
