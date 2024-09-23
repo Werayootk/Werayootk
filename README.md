@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/werayoot-kunphai/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@werayoot-kunphai)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/werayootk)
+[![Sponsor me](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/Werayootk)
 <br />
 
 ### Hi there 👋 I'm Werayoot Kunphai From Thailand ![](https://github.com/yammadev/flag-icons/blob/master/png/TH.png)
@@ -36,6 +37,8 @@ Backend:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/></code>
@@ -44,6 +47,7 @@ Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
@@ -66,41 +70,56 @@ Database:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
 
-Real-World Software Engineering Tools:
-
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/></code>
-<code><img height="25" src=".github/icons/rabbitmq.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/></code>
-<code><img height="25" src=".github/icons/elk.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/></code>
-
 Cloud & Deployment:
 
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  /> </code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  /></code>
+
+Observability Tools:
+
+<code><img height="25" src=".github/icons/elk.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/></code>
 
 Testing Tools:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"  /></code>
 <code><img height="25" src=".github/icons/k6.svg" /></code>
-
+<!--
 AI/ML/DL/GenAI:
 
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
+-->
+Data Engineering Tools:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/></code>
+<code><img height="25" src=".github/icons/rabbitmq.svg"/></code>
 
 Others:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></code>
 
 <br />
 
