@@ -20,7 +20,7 @@
 * 📫 How to reach me: @werayoot_ku on Twitter
 ---
 
-## Technologies I have used
+## Technologies I do not use all these. just let you know 😂
 
 Language:
 
