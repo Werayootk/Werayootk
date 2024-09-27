@@ -111,6 +111,7 @@ Data Engineering Tools:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/></code>
 <code><img height="25" src=".github/icons/rabbitmq.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg"/></code>
 
 Others:
 
